@@ -36,7 +36,7 @@ npm start
 
 
 ## See the app running
-https://github.com/smjervis/translation_inc_app
+https://smjervis.github.io/translation_inc_app/
 
 
 
