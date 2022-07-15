@@ -26,7 +26,7 @@ const ResultsList = ({ results, resultsSize, loading, onPageClick }) => {
                     pageCount={pageCount}
                     previousLabel="<<"
                     renderOnZeroPageCount={null}
-                    containerClassName="flex-wrap pagination justify-content-center my-3"
+                    containerClassName="pagination justify-content-center my-3"
                     pageClassName="page-item"
                     pageLinkClassName="page-link"
                     previousClassName="page-item"
