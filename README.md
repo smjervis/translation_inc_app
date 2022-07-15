@@ -20,26 +20,17 @@ To travel between articles, you can use the paginator function.
 
 To have the most relevant articles, you can click in the "Resultados más relevantes" link.
 
+## Running locally
 
-# ESPAÑOL
+Open your terminal and type:
 
-# Herramienta para buscar inofrmación de Salud y nutrición
+npm install
+git clone translation_inc_app
+cd.. to the translation_inc_app directory
+npm start
 
-## Descripción
-Esta es una herramienta de búsqueda para encontrar información sobre salud y nutrición, en donde se puede encontrar diverso contenido relacionado con consejos para el cuidado de la salud, buenos hábitos de alimentación, recetas, entre otros datos.
-
-Cuando insertes un término de búsqueda, tendrás todos los artículos relacionados con este organizados en tarjetas, donde podrás ver su título, una breve descripción y la categoría a la que pertenece. Además, dispones del botón "Ver más", para poder acceder al artículo completo que te interese. Por otra parte, verás la cantidad total de artículos a los que puedes acceder.
-
-También tienes la opción de navegar entre las páginas de resultados usando el paginador.
-
-Por otro lado, se pueden filtrar los resultados por relevancia, logrando así ver los artículos más significativos relacionados con el término de búsqueda.
-
-## Cómo utilizar
-Para utilizar esta herramienta de búsqueda, debes escribir el término que deseas buscar relacionado con nutrición y salud, luego debes hacer click en el botón "Search". Como se mencionó anteriormente, así tendrás todos los artículos relacionados con tu término de búsqueda.
-
-Para navegar entre artículos, puedes utilizar el paginador.
-
-Para tener los artículos más relevantes, puedes hacer clic en el enlace "Resultados más relevantes".
+## See the app running through this link
+https://github.com/smjervis/translation_inc_app
 
 
 
