@@ -7,7 +7,7 @@
 ## Description
 This is a search tool to find information about health and nutrition. Through this tool, you can find several information related to health care tips, good nutrition habits, recipes, among other data.
 
-When you insert a search term, you will have all the articles related to your search term organized into cards, where you can see their title, a short description and the categorie they belong. Also, you have the "see more" button, so you can access to the full article you are interested in. Besides, you will see the total amount of articles you can access.
+When you insert a search term, you will have all the articles related to your search term organized into cards, where you can see their title, a short description and the categorie they belong. Also, you have the "Ver más" button, so you can access to the full article you are interested in. Besides, you will see the total amount of articles you can access.
 
 You also have the option to travel between result pages using a paginator.
 
