@@ -15,7 +15,7 @@ You can also filter the results by relevance in order to see the most significan
 
 
 ## How to use
-To use this search tool, you need to type the term you want to search which is related to nutrition and health, the click on the "Search" button. As mentioned above, doing this you will have all the articles related to your search term. 
+To use this search tool, you need to type the term you want to search which is related to nutrition and health, then click on the "Buscar" button. As mentioned above, doing this you will have all the articles related to your search term. 
 
 To travel between articles, you can use the paginator function.
 
