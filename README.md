@@ -29,7 +29,7 @@ git clone translation_inc_app
 cd.. to the translation_inc_app directory
 npm start
 
-## See the app running through this link
+## See the app running
 https://github.com/smjervis/translation_inc_app
 
 
